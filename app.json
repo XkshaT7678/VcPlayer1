@@ -1,9 +1,9 @@
 {
-  "name": "DaisyXMusic",
-  "logo": "https://telegra.ph/file/36ff1b571aa11df5812de.jpg",
+  "name": "VcMusic",
+  "logo": "https://telegra.ph/file/925bbb43a6bd624125f3c.jpg",
   "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Powered by PyTgCalls.",
   "keywords": ["music", "voicechat", "telegram"],
-  "repository": "https://github.com/TeamDaisyX/DaisyXMusic",
+  "repository": "https://github.com/Akshat7678/VcPlayer",
   "stack": "container",
   "buildpacks": [
    {
@@ -29,17 +29,17 @@
     "BOT_NAME": {
       "description": "Your MusicPlayer Bot Name.",
       "required": false,
-      "value": ""
+      "value": "Arjvps"
     },
     "SUPPORT_GROUP": {
-      "description": "Your MusicPlayer support group without @ [Leave this if you don't have one]",
+      "description": "Don't Edit, Or bot will not work!",
       "required": false,
-      "value": "DaisySupport_Official"
+      "value": "TheArjvpsChat"
     },
     "PROJECT_NAME": {
-      "description": "Your MusicPlayer project Name.",
+      "description": "Don't Edit or bot will not work..!",
       "required": false,
-      "value": "DaisyXMusic v5"
+      "value": "VcPlayer"
     },
     "ASSISTANT_NAME": {
       "description": "Your MusicPlayer's assistant Username without @.",
@@ -56,9 +56,9 @@
       "value": " https://telegra.ph/file/dcfdf612e499eef0e0b1f.png"
     },     
     "UPDATES_CHANNEL": {
-      "description": "Updates Channel without @ [Leave this if you don't have one].",
+      "description": "Don't Edit, Or bot will not work!,
       "required": false,
-      "value": "DaisyXupdates"
+      "value": "TheArjvps"
     },    
     "API_ID": {
       "description": "App ID from my.telegram.org/apps",
